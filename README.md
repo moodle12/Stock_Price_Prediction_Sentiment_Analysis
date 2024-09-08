@@ -11,6 +11,14 @@ One such social media platform that has seen an explosive rise in popularity is 
 
 Dataset: https://www.kaggle.com/datasets/nadun94/twitter-sentiments-aapl-stock
 
+Twitter data from Kaggle for Apple stock was used for sentiment analysis. The time frame chosen to analyze data is January 01, 2016 to August 31, 2019.
+
+Collected daily Apple stock data for the same time period from Yahoo Finance for historical data analysis and stock price/trend prediction.
+
+Twitter information was processed to use only data for the dates the stock market was open (approximately 252 trading days per year).
+
+Twitter Data and Daily stock prices were merged together and a final csv was generated which was used as base data. For all the predictive analyses, have used the adjusted close price of AAPL.
+
 # Model training and evaluation
 
 Different machine learning techniques were used to train and evaluate models to analyze and determine the correlation between twitter sentiment and Apple stock price.
