@@ -9,6 +9,8 @@ Due to these factors, it is difficult to find out the dependence of a single fac
 The popularity and importance of numerous social media platforms has risen to new levels over the past few years, as more people spend time online.
 One such social media platform that has seen an explosive rise in popularity is Twitter. Twitter is a rich source of real-time information regarding current societal trends and opinions.
 
+Dataset: https://www.kaggle.com/datasets/nadun94/twitter-sentiments-aapl-stock
+
 # Model training and evaluation
 
 Different machine learning techniques were used to train and evaluate models to analyze and determine the correlation between twitter sentiment and Apple stock price.
